@@ -1,0 +1,7 @@
+# Entropy files
+!.entropy
+.env
+.env/
+entropy/
+.entropy/
+.env.*
